@@ -6,4 +6,4 @@ plotly
 scikit-learn
 joblib
 seaborn
-gunicorn==20.x.x
+gunicorn
